@@ -4,20 +4,32 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class SceneLoader : MonoBehaviour
-        
+
 {
+
 
     public float autoLoadNextLevelAfter;
 
-	private void Start()
-	{
-        Invoke("LoadNextScene", autoLoadNextLevelAfter);
-	}
+    void Start()
+    {
+        if (autoLoadNextLevelAfter == 0)
+        {
 
+        }
+        else
+        {
+            Invoke("LoadNextScene", autoLoadNextLevelAfter);
+        }
+    }
 	public void LoadNextScene()
     {
         int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
         SceneManager.LoadScene(currentSceneIndex + 1);
+    }
+
+    public void LoadLevel(string name)
+    {
+        Application.LoadLevel(name);
     }
 
     public void LoadStartScene()
