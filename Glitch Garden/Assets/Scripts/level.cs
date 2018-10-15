@@ -7,11 +7,11 @@ public class level : MonoBehaviour
 
 
 
-    SceneLoader SceneLoader;
+    LevelManager SceneLoader;
 
 	private void Start()
 	{
-        SceneLoader = FindObjectOfType<SceneLoader>();
+        SceneLoader = FindObjectOfType<LevelManager>();
 	}
 
 	

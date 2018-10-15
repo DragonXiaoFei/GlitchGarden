@@ -8,7 +8,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400000}
-  - component: {fileID: 114207022163179088}
+  - component: {fileID: 114314590326970284}
   m_Layer: 0
   m_Name: Level Manager
   m_TagString: Untagged
@@ -40,7 +40,7 @@ Prefab:
   m_SourcePrefab: {fileID: 0}
   m_RootGameObject: {fileID: 100000}
   m_IsPrefabAsset: 1
---- !u!114 &114207022163179088
+--- !u!114 &114314590326970284
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f73a3042c9c0b4f2bb272a3015d63ae6, type: 3}
+  m_Script: {fileID: 11500000, guid: a937ab9c093d7452d9422bd07db6c2c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   autoLoadNextLevelAfter: 3.25
