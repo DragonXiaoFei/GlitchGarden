@@ -26,6 +26,30 @@ TextureImporter:
     21300042: npc_fox_fox_orangeFox_x1_walk_png_1354839598_21
     21300044: npc_fox_fox_orangeFox_x1_walk_png_1354839598_22
     21300046: npc_fox_fox_orangeFox_x1_walk_png_1354839598_23
+    21300048: walk_0
+    21300050: walk_1
+    21300052: walk_2
+    21300054: walk_3
+    21300056: walk_4
+    21300058: walk_5
+    21300060: walk_6
+    21300062: walk_7
+    21300064: walk_8
+    21300066: walk_9
+    21300068: walk_10
+    21300070: walk_11
+    21300072: walk_12
+    21300074: walk_13
+    21300076: walk_14
+    21300078: walk_15
+    21300080: walk_16
+    21300082: walk_17
+    21300084: walk_18
+    21300086: walk_19
+    21300088: walk_20
+    21300090: walk_21
+    21300092: walk_22
+    21300094: walk_23
   externalObjects: {}
   serializedVersion: 7
   mipmaps:
@@ -93,11 +117,33 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_0
+      name: walk_0
       rect:
         serializedVersion: 2
         x: 0
@@ -105,19 +151,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 115c1bc8ada8c42efa163defd4da49de
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_1
+      name: walk_1
       rect:
         serializedVersion: 2
         x: 153
@@ -125,19 +171,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: b6871965462774dc1914656a9f190645
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_2
+      name: walk_2
       rect:
         serializedVersion: 2
         x: 306
@@ -145,19 +191,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 81d0857ca48bd415c95c9608715f970c
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_3
+      name: walk_3
       rect:
         serializedVersion: 2
         x: 459
@@ -165,19 +211,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 65f61bd34c76a453598f08010450743d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_4
+      name: walk_4
       rect:
         serializedVersion: 2
         x: 612
@@ -185,19 +231,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 520b1f82613664c5c968f721827a12e6
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_5
+      name: walk_5
       rect:
         serializedVersion: 2
         x: 765
@@ -205,19 +251,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 6a0de31f6da70438caffd1a3bc90d3ec
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_6
+      name: walk_6
       rect:
         serializedVersion: 2
         x: 0
@@ -225,19 +271,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: cd20871b7928445d789ee2d57322977a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_7
+      name: walk_7
       rect:
         serializedVersion: 2
         x: 153
@@ -245,19 +291,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 7f90c04fd5b98457d9bb0820be59b6cd
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_8
+      name: walk_8
       rect:
         serializedVersion: 2
         x: 306
@@ -265,19 +311,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 8a6453603a20141f985dbddbc38b7649
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_9
+      name: walk_9
       rect:
         serializedVersion: 2
         x: 459
@@ -285,19 +331,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 4e9be3a0c8d334d6fbd32bda87c0f0ab
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_10
+      name: walk_10
       rect:
         serializedVersion: 2
         x: 612
@@ -305,19 +351,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: fc6d6d0dec4814fac8d89d29ea3e4198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_11
+      name: walk_11
       rect:
         serializedVersion: 2
         x: 765
@@ -325,19 +371,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: dd3293a603ea043429cde642786b4f9d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_12
+      name: walk_12
       rect:
         serializedVersion: 2
         x: 0
@@ -345,19 +391,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 105f2848d067d41b1822573308ad4e7d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_13
+      name: walk_13
       rect:
         serializedVersion: 2
         x: 153
@@ -365,19 +411,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 8e201fd3ab07f43ceb88ff9d9af861ef
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_14
+      name: walk_14
       rect:
         serializedVersion: 2
         x: 306
@@ -385,19 +431,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 0111ba24f50b442a38982c06ca4530a9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_15
+      name: walk_15
       rect:
         serializedVersion: 2
         x: 459
@@ -405,19 +451,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 8d345dc693983426981bb31ec6d00c61
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_16
+      name: walk_16
       rect:
         serializedVersion: 2
         x: 612
@@ -425,19 +471,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: de1a090acfd60498d9198698bf5d7772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_17
+      name: walk_17
       rect:
         serializedVersion: 2
         x: 765
@@ -445,19 +491,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: f824cdbca32ba453095060763e6d2776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_18
+      name: walk_18
       rect:
         serializedVersion: 2
         x: 0
@@ -465,19 +511,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 469de6750cd3143658a65efcc0945ff9
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_19
+      name: walk_19
       rect:
         serializedVersion: 2
         x: 153
@@ -485,19 +531,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: fb2ab4e261a1441049ad49875e5dd9e3
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_20
+      name: walk_20
       rect:
         serializedVersion: 2
         x: 306
@@ -505,19 +551,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 33530ff73cf5e40f898dda8597975e53
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_21
+      name: walk_21
       rect:
         serializedVersion: 2
         x: 459
@@ -525,19 +571,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 5eb4ff0ec46af4eafb4fffe16506af8a
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_22
+      name: walk_22
       rect:
         serializedVersion: 2
         x: 612
@@ -545,19 +591,19 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 5abe57b58641642a1af8bfe861466e6d
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: npc_fox_fox_orangeFox_x1_walk_png_1354839598_23
+      name: walk_23
       rect:
         serializedVersion: 2
         x: 765
@@ -565,13 +611,13 @@ TextureImporter:
         width: 153
         height: 139
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 
+      spriteID: 15a4f38a100e0425fa8a84670c567287
       vertices: []
       indices: 
       edges: []
@@ -579,7 +625,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 238a5c737f1874a4db12d1b6ba494e79
     vertices: []
     indices: 
     edges: []
