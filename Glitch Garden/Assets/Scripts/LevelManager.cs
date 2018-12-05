@@ -12,9 +12,9 @@ public class LevelManager : MonoBehaviour
 
     void Start()
     {
-        if (autoLoadNextLevelAfter == 0)
+        if (autoLoadNextLevelAfter <= 0)
         {
-
+            Debug.Log("Level auto load disabled, use a positive number");
         }
         else
         {
